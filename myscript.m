@@ -1,7 +1,7 @@
  % Jillian's first MATLAB script (Nov. 1, 2019)
 
 %% 1. define a time step, dt, and a time vector, t
-dt = .1;
+dt = .005;
 t = 0:dt:2;
 
 %% 2. create empty vectors for some important variables...
